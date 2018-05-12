@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/585
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
 description: Just like a cat -- The three hundred -- Fleas will be fleas.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15300#Mike-Flannery-On-Duty-and-Off
 gutenberg_issued: '2005-03-09'
 gutenberg_type: Text
 identifiers:
